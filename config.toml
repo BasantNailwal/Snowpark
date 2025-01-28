@@ -1,0 +1,10 @@
+default_connection_name = "myconnection"
+
+[connections]
+[connections.myconnection]
+account ="AAPDKWQ-GT81863"
+user = "basant029"
+password = "Nailwab@271088"
+warehouse = "compute_wh"
+database = "HOL_DB"
+schema = "HOL"
