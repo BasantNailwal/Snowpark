@@ -46,3 +46,14 @@ entities:
       use_mixins:
         - snowpark_shared
 
+DV_procedure:
+    type: procedure
+    identifier:
+      name: DV_procedure
+    handler: procedures.DV_procedure
+    signature: ''
+    returns: string
+    meta:
+      use_mixins:
+        - snowpark_shared        
+
